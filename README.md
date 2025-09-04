@@ -14,13 +14,13 @@ This app allows you to shorten long URLs, set expiry times, generate custom shor
 ## 📸 Screenshots
 
 ### Home / Shortener Page
-![Shortener Page](./screenshots/shortener-page.jpg)
+![Shortener Page](./screenshorts/shortener-page.jpg)
 
 ### Recently Created Links
-![Links Section](./screenshots/links-section.jpg)
+![Links Section](./screenshorts/links-section.jpg)
 
 ### Stats Page
-![Stats Page](./screenshots/stats-page.jpg)
+![Stats Page](./screenshorts/stats-page.jpg)
 
 *(Place your screenshot images inside a folder named `screenshots/` in your repo root, and update the file names accordingly.)*
 
