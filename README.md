@@ -5,8 +5,7 @@ This app allows you to shorten long URLs, set expiry times, generate custom shor
 
 ---
 
-## 🚀 Live Demo
-👉 [Live Link Here](https://your-deployed-link.com)  
+ 
 
 
 ---
