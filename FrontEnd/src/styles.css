@@ -1,0 +1,7 @@
+body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; padding: 16px; }
+.container { max-width: 900px; margin: 0 auto; }
+header { display:flex; justify-content: space-between; align-items:center }
+.row { display:flex; gap:8px; margin-bottom:8px }
+.row input { flex: 1; padding: 8px }
+.shorten-form button { margin-left: 8px }
+a { color: #0366d6 }
